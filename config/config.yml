@@ -1,0 +1,7 @@
+server_address: 0.0.0.0:8080
+
+kafka:
+  bootstrap_server:
+  sasl_username:
+  sasl_password:
+  ssl_ca_location:
