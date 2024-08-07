@@ -2,4 +2,4 @@
 <img src="doc/MGDAppHighLevelDesign.png"  />
 
 ## Main flow - Sequence Diagram
-<img src="doc/MGDAppWorkflow.jpg"  />
+<img src="doc/MGDAppMainFlow.jpg"  />
